@@ -1,0 +1,11 @@
+__pycache__
+venv/
+.env
+pics
+JESUS-Readme.txt
+Setup-Deps-Installation.txt
+Create-Virtual-Environment.bat
+__init__.py
+alembic.ini
+alembic-migrations
+.vscode/settings.json
