@@ -99,4 +99,4 @@ app.include_router(vote.router)
 #Default route 
 @app.get("/")
 async def root():
-	return {"message":"Hello my friend!!!"}
+	return {"message":"Welcome to my Python API!!!"}
