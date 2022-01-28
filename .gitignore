@@ -6,6 +6,8 @@ JESUS-Readme.txt
 Setup-Deps-Installation.txt
 Create-Virtual-Environment.bat
 __init__.py
-.vscode/settings.json
-docker-compose.yml
+.vscode/
 Dockerfile
+docker-compose-prod.yml
+docker-compose-dev.yml
+.gitignore
